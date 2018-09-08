@@ -33,34 +33,7 @@
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-            <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="index.html#news">News</a>
-                </li>
-                <li>
-                    <a href="index.html#publications">Publications</a>
-                </li>
-                <!--
-                <li>
-                    <a href="index.html#projects">Projects</a>
-                </li>
-                -->
-                <li>
-                    <a href="index.html#software">Software</a>
-                </li>
-                <li>
-                    <a href="index.html#presentations">Presentations</a>
-                </li>
-                <li>
-                    <a href="index.html#awards">Honours and Awards</a>
-                </li>
-                <li>
-                    <a href="resume.html">Resume</a>
-                </li>
-            </ul>
+            
         </div>
         <!-- /#sidebar-wrapper -->
 
@@ -272,6 +245,8 @@
             document.getElementById('index-page').contentWindow.document.getElementById('presentations').innerHTML;
         document.getElementById('resume-awards').innerHTML = 
             document.getElementById('index-page').contentWindow.document.getElementById('awards').innerHTML;
+        document.getElementById('sidebar-wrapper').innerHTML = 
+            document.getElementById('index-page').contentWindow.document.getElementById('sidebar-wrapper').innerHTML;
     }
     </script>
 
