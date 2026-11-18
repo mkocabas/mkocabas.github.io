@@ -1,0 +1,28 @@
+# Muhammed Kocabas
+
+> Machine Learning Research Scientist at Apple (Cupertino, CA) working on 3D/4D reconstruction and generation. Research spans 3D human pose, shape and motion estimation from images and video, neural rendering and Gaussian splatting, human-object and human-scene interaction, camera estimation, and generative models for video and 3D. PhD from ETH Zurich and the Max Planck Institute for Intelligent Systems (advisors: Michael J. Black, Otmar Hilliges).
+
+## Profiles
+- [Homepage](https://mkocabas.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?user=H4ioz9YAAAAJ)
+- [GitHub](https://github.com/mkocabas)
+- [LinkedIn](https://www.linkedin.com/in/muhammedkocabas/)
+
+## Experience
+- Apple, Machine Learning Research Scientist (Dec 2025 – present)
+- Meshcapade, Machine Learning Scientist (2024 – 2025): markerless motion capture from video, synthetic 3D human data
+- Apple, ML Research Intern (2023 – 2024): HUGS
+- NVIDIA Research, Research Scientist Intern (2022 – 2023): PACE
+- MPI-IS & ETH Zurich, PhD (2019 – 2024)
+
+## Selected work
+- [VIBE](https://github.com/mkocabas/VIBE): video-based 3D human pose and shape estimation (CVPR 2020)
+- [PARE](https://pare.is.tue.mpg.de/): occlusion-robust 3D human body regression (ICCV 2021)
+- [SPEC](https://spec.is.tue.mpg.de/): 3D humans with estimated perspective cameras (ICCV 2021)
+- [HUGS](https://machinelearning.apple.com/research/hugs): animatable human avatars with 3D Gaussian splatting (CVPR 2024)
+- [PACE](https://nvlabs.github.io/PACE/): joint human and camera motion estimation from video (3DV 2024)
+- [PromptHMR](https://yufu-wang.github.io/phmr-page): promptable human mesh recovery (CVPR 2025)
+- [BEDLAM2.0](https://bedlam2.is.tuebingen.mpg.de/): synthetic video dataset of humans and moving cameras (NeurIPS 2025)
+- Split-and-Scale Latent 3D Representations (NeurIPS 2026)
+
+Full publication and patent list: https://mkocabas.github.io/
